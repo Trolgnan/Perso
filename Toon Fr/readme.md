@@ -1,9 +1,8 @@
-# Toon Character Sheet
+# Feuille de personnage TOON
 
-This is a Toon character sheet.  It is designed for
-use with Roll20.net and released open source under the MIT License.
+C'est la feuille de personnage pour le jeu de rôle TOON.  il a été fait pour être utiliser avec Roll20.net et publié en open source sous la licence MIT.
 
-### Changelog ###
+### Journal des modifications ###
 
-**Initial release - February 28, 2015**
-- First release.  
+**1ère version modifié de la version anglaise - le 7 juin 2021**
+- 1ère version en français.  
